@@ -8,7 +8,7 @@ import static ratpack.jackson.Jackson.json
 ratpack {
   bindings {
     module MarkupTemplateModule
-    module JacksonModule    
+    module JacksonModule
   }
 
   handlers {
